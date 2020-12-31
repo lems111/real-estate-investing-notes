@@ -10,3 +10,6 @@ Notes and references for real estate investing
 1. below is a link to REIA locations nationwide:
 https://nationalreia.org/find-a-reia/
   1. Also there are facebook groups for real estate investors in different areas of the country.
+
+## Note Investing
+1. how to secure interest in promissory note - filing UCC1 financing statements 
